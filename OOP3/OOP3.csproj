@@ -7,10 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\OOP3\OOP3.csproj" />
-    <ProjectReference Include="..\Person\Person.csproj" />
-    <ProjectReference Include="..\Points\Points.csproj" />
-  </ItemGroup>
-
 </Project>
